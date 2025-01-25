@@ -14,11 +14,11 @@ Este proyecto es una aplicación web que permite realizar sorteos de "Amigo Secr
 
 ## 📸 Capturas de Pantalla
 1. **Página principal**: Muestra el diseño inicial con los campos para ingresar los nombres.
-
+(/assets/paginaPrincipal.jpg)
 2. **Lista de nombres**: Visualización de los nombres ingresados antes del sorteo.
+(/assets/listaNombres.jpg)
 3. **Resultado del sorteo y Botones deshabilitados**: Muestra al participante seleccionado tras realizar el sorteo. Indica que no se pueden realizar cambios hasta reiniciar.
-
-> **Nota**: Agrega capturas que resalten el diseño responsivo y las interacciones clave.
+(/assets/resultado.jpg)
 
 ---
 
